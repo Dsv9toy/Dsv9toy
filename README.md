@@ -25,12 +25,6 @@
   <img src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
 </p>
 
-### 📐 Математическое ПО
-<p align="left">
-  <img src="https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/>
-  <img src="https://img.shields.io/badge/Mathematica-%23DD1100.svg?style=for-the-badge&logo=wolfram-mathematica&logoColor=white" alt="Mathematica"/>
-  <img src="https://img.shields.io/badge/Simulink-%230099FF.svg?style=for-the-badge&logo=mathworks&logoColor=white" alt="Simulink"/>
-</p>
 
 ### ⚡ Инструменты разработки
 <p align="left">
