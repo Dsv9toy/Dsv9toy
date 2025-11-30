@@ -60,15 +60,13 @@
 - [ ] Часы на газоразрядных индикаторых на базе Arduiono Nano(ATmega328p)
 
 ## 📫 Контакты
-
 <p align="left">
-  <a href="mailto:danilmananov@mail.ru">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="javascript:void(0);" onclick="copyToClipboard('danilmananov@mail.ru')">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" id="email-btn"/>
   </a>
   <a href="https://t.me/dsv9toy">
     <img src="https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-
 </p>
 
 ---
