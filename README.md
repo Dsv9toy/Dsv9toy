@@ -35,13 +35,6 @@
   <img src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=qt&logoColor=white" alt="Qt"/>
 </p>
 
-## 📊 Статистика GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dsv9toy&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dsv9toy&layout=compact&theme=radical&hide_border=true" />
-</p>
-
 ## 🎓 Образование и проекты
 
 ### 📚 Активные исследования
@@ -50,8 +43,8 @@
 
 ### 🔭 Последние проекты
 - [ ] Система управления сенсорным экраном на STM32
-- [ ] Лампа с различными эффектами на основе светодиодной матрицы 16x16 на базе ESP32 
-- [ ] Часы на газоразрядных индикаторых на базе Arduiono Nano(ATmega328p)
+- [ ] Лампа с различными эффектами на основе светодиодной матрицы 16x16 на базе Wemos  
+- [ ] Часы на газоразрядных индикаторых на базе Arduino Nano(ATmega328p)
 
 ## 📫 Контакты
 <p align="left">
